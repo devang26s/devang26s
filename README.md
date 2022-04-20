@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/71540418/164231111-70d8a08f-3a7d-42d7-9255-c560a052d925.png">
 <h1 align="center">Hi 👋, I'm Devang Soni</h1>
 <h3 align="center">A passionate Developer and Learner</h3>
 
