@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development with Flutter and dApp**
 
-- 👨‍💻 You can explore about me on [https://devangsoni-portfolio.web.app/](my Portfolio)
+- 👨‍💻 You can explore about me on my Portfolio [https://devangsoni-portfolio.web.app]
 
 - 💬 Ask me about **Cross-Platform Development, Python and Cyber Security**
 
