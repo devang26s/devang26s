@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Full Stack Development with Flutter and dApp**
 
-- 👨‍💻 You can explore about me on [devangsoni.netlify.app](devangsoni.netlify.app)
+- 👨‍💻 You can explore about me on [https://devangsoni-portfolio.web.app/](my Portfolio)
 
 - 💬 Ask me about **Cross-Platform Development, Python and Cyber Security**
 
-- 📫 How to reach me **devanngsoni074@gmail.com**
+- 📫 How to reach me **contact.devanngsoni@gmail.com**
 
 - ⚡ Fun fact **I am kinda Dumb!!**
 
