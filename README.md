@@ -15,9 +15,6 @@
 
 - 📫 How to reach me **contact.devanngsoni@gmail.com**
 
-- ⚡ Fun fact **I am kinda Dumb!!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
