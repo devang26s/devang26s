@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/71540418/164231111-70d8a08f-3a7d-42d7-9255-c560a052d925.png">
-<h1 align="center">Hi 👋, I'm Devang Soni</h1>
+<img src="https://user-images.githubusercontent.com/71540418/205052659-2df354cd-56c1-4297-8a20-ec1878e864a8.png">
+<h1 align="center">Hi 👋, I'm Devang Soni</h1>![Blue Gradient Modern Corporate Computer and Technology LinkedIn Banner]
+
 <h3 align="center">A passionate Developer and Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devang26s&label=Profile%20views&color=0e75b6&style=flat" alt="devang26s" /> </p>
